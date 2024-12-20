@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adelia_2300016054/static/css/main.3a9e879f.css",
+    "main.js": "/adelia_2300016054/static/js/main.75d6ae17.js",
+    "static/js/488.add332fd.chunk.js": "/adelia_2300016054/static/js/488.add332fd.chunk.js",
+    "index.html": "/adelia_2300016054/index.html",
+    "main.3a9e879f.css.map": "/adelia_2300016054/static/css/main.3a9e879f.css.map",
+    "main.75d6ae17.js.map": "/adelia_2300016054/static/js/main.75d6ae17.js.map",
+    "488.add332fd.chunk.js.map": "/adelia_2300016054/static/js/488.add332fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a9e879f.css",
+    "static/js/main.75d6ae17.js"
+  ]
+}
